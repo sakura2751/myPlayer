@@ -1,0 +1,125 @@
+@font-face {
+  font-family: 'musicplayer';
+  src:  url('../fonts/musicplayer.eot?7x8d45');
+  src:  url('../fonts/musicplayer.eot?7x8d45#iefix') format('embedded-opentype'),
+    url("../fonts/musicplayer.ttf?7x8d45") format('truetype'),
+    url('../fonts/musicplayer.woff?7x8d45') format('woff'),
+    url('../fonts/musicplayer.svg?7x8d45#musicplayer') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="musicplayer-"], [class*=" musicplayer-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'musicplayer' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.musicplayer-7:before {
+  content: "\e900";
+}
+.musicplayer-uniE901:before {
+  content: "\e901";
+}
+.musicplayer-11:before {
+  content: "\e902";
+  color: #fff;
+}
+.musicplayer-5:before {
+  content: "\e903";
+  color: #e6e6e6;
+}
+.musicplayer-2:before {
+  content: "\e904";
+  color: #e6e6e6;
+}
+.musicplayer-8:before {
+  content: "\e905";
+  color: #fff;
+}
+.musicplayer-4:before {
+  content: "\e906";
+  color: #d81e06;
+}
+.musicplayer-14:before {
+  content: "\e907";
+  color: #e6e6e6;
+}
+.musicplayer-12:before {
+  content: "\e908";
+  color: #fff;
+}
+.musicplayer-6:before {
+  content: "\e909";
+  color: #fff;
+}
+.musicplayer-01:before {
+  content: "\e90a";
+  color: #dbdbdb;
+}
+.musicplayer-9:before {
+  content: "\e90b";
+  color: #fff;
+}
+.musicplayer-10:before {
+  content: "\e90c";
+}
+.musicplayer-13:before {
+  content: "\e90d";
+}
+.musicplayer--1:before {
+  content: "\e90e";
+}
+.musicplayer-3:before {
+  content: "\e90f";
+}
+.musicplayer-star:before {
+  content: "\e910";
+  color: #dbdbdb;
+}
+.musicplayer-setting:before {
+  content: "\e911";
+  color: #dbdbdb;
+}
+.musicplayer-plus_square_fill:before {
+  content: "\e912";
+  color: #e6e6e6;
+}
+.musicplayer-M_:before {
+  content: "\e913";
+  color: #dbdbdb;
+}
+.musicplayer-icon_delete:before {
+  content: "\e914";
+  color: #dbdbdb;
+}
+.musicplayer-icon_add:before {
+  content: "\e915";
+  color: #dbdbdb;
+}
+.musicplayer-download:before {
+  content: "\e916";
+  color: #dbdbdb;
+}
+.musicplayer-checkbox-marked:before {
+  content: "\e917";
+  color: #fff;
+}
+.musicplayer-arrow-down-circle-line:before {
+  content: "\e918";
+  color: #dbdbdb;
+}
+.musicplayer-1:before {
+  content: "\e919";
+  color: #dbdbdb;
+}
